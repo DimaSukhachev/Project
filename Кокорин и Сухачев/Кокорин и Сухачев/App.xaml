@@ -1,0 +1,22 @@
+﻿<Application x:Class="Кокорин_и_Сухачев.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Кокорин_и_Сухачев"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style x:Key="PalmGod" TargetType="Button">
+            <Setter Property="Background" Value="BlanchedAlmond"></Setter>
+        </Style>
+        <Style x:Key="PalmGod1" TargetType="Button">
+            <Setter Property="Background" Value="Red"></Setter>
+        </Style>
+        <Style x:Key="PalmGod2" TargetType="Button">
+            <Setter Property="Background" Value="LightPink"></Setter>
+        </Style>
+        <Style x:Key="PalmGod3" TargetType="Button">
+            <Setter Property="Background" Value="HotPink"></Setter>
+        </Style>
+
+
+    </Application.Resources>
+</Application>

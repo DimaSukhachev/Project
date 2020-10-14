@@ -6,7 +6,6 @@ C:\Users\univer\source\repos\Кокорин и Сухачев\Кокорин и 
 C:\Users\univer\source\repos\Кокорин и Сухачев\Кокорин и Сухачев\obj\Debug\Page1.g.cs
 C:\Users\univer\source\repos\Кокорин и Сухачев\Кокорин и Сухачев\obj\Debug\Page2.g.cs
 C:\Users\univer\source\repos\Кокорин и Сухачев\Кокорин и Сухачев\obj\Debug\Page3.g.cs
-C:\Users\univer\source\repos\Кокорин и Сухачев\Кокорин и Сухачев\obj\Debug\Page4.g.cs
 C:\Users\univer\source\repos\Кокорин и Сухачев\Кокорин и Сухачев\obj\Debug\App.g.cs
 C:\Users\univer\source\repos\Кокорин и Сухачев\Кокорин и Сухачев\obj\Debug\Кокорин и Сухачев_MarkupCompile.cache
 C:\Users\univer\source\repos\Кокорин и Сухачев\Кокорин и Сухачев\obj\Debug\Кокорин и Сухачев_MarkupCompile.lref
@@ -14,7 +13,6 @@ C:\Users\univer\source\repos\Кокорин и Сухачев\Кокорин и 
 C:\Users\univer\source\repos\Кокорин и Сухачев\Кокорин и Сухачев\obj\Debug\Page1.baml
 C:\Users\univer\source\repos\Кокорин и Сухачев\Кокорин и Сухачев\obj\Debug\Page2.baml
 C:\Users\univer\source\repos\Кокорин и Сухачев\Кокорин и Сухачев\obj\Debug\Page3.baml
-C:\Users\univer\source\repos\Кокорин и Сухачев\Кокорин и Сухачев\obj\Debug\Page4.baml
 C:\Users\univer\source\repos\Кокорин и Сухачев\Кокорин и Сухачев\obj\Debug\Кокорин и Сухачев.g.resources
 C:\Users\univer\source\repos\Кокорин и Сухачев\Кокорин и Сухачев\obj\Debug\Кокорин_и_Сухачев.Properties.Resources.resources
 C:\Users\univer\source\repos\Кокорин и Сухачев\Кокорин и Сухачев\obj\Debug\Кокорин и Сухачев.csproj.GenerateResource.cache

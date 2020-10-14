@@ -10,5 +10,6 @@
 
     <Grid>
         <Grid Background="LightPink"></Grid>
+        <ListBox ItemsSource="{Binding Source={StaticResource XmlReader1}}"></ListBox>
     </Grid>
 </Page>

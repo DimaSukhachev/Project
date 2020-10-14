@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics.Contracts;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
@@ -13,6 +14,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Windows.Threading;
+
 
 namespace Кокорин_и_Сухачев
 {
@@ -21,11 +24,9 @@ namespace Кокорин_и_Сухачев
     /// </summary>
     public partial class MainWindow : Window
     {
-        public MainWindow()
-        {
-            InitializeComponent();
-            PageViewer.Navigate(new Page());
-        }
+
+
+        
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
@@ -34,17 +35,22 @@ namespace Кокорин_и_Сухачев
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            PageViewer.Navigate(new Page2());
+            PageViewer.Navigate(new Page1());
         }
 
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
-            PageViewer.Navigate(new Page3());
+            PageViewer.Navigate(new Page2());
         }
 
         private void Button_Click_3(object sender, RoutedEventArgs e)
         {
-            PageViewer.Navigate(new Page4());
+            PageViewer.Navigate(new Page3());
         }
+
+
+
+
+
     }
 }

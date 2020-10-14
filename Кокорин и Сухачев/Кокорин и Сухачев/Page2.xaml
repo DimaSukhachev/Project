@@ -9,6 +9,8 @@
       Title="Page2">
 
     <Grid>
-        <Grid Background="Azure"></Grid>
+        <Grid Background="Azure">
+            <Image Source="Image1.png" Stretch="Fill"/>
+        </Grid>
     </Grid>
 </Page>

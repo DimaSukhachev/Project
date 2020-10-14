@@ -9,6 +9,7 @@
       Title="Page3">
 
     <Grid>
-        <Grid Background="LightGoldenrodYellow"></Grid>
+        <Grid Background="Indigo"></Grid>
+        <ListBox ItemsSource="{Binding Source={StaticResource XmlReader}}"></ListBox>
     </Grid>
 </Page>

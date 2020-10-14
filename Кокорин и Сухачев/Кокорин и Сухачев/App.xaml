@@ -16,6 +16,12 @@
         <Style x:Key="PalmGod3" TargetType="Button">
             <Setter Property="Background" Value="HotPink"></Setter>
         </Style>
+        <XmlDataProvider x:Key="XmlReader" 
+                         Source="XML\XMLFile1.xml">
+            
+        </XmlDataProvider>
+        <XmlDataProvider x:Key="XmlReader1"
+                         Source="XML\XMLFile2.xml"></XmlDataProvider>
 
 
     </Application.Resources>

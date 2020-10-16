@@ -21,7 +21,15 @@
             
         </XmlDataProvider>
         <XmlDataProvider x:Key="XmlReader1"
-                         Source="XML\XMLFile2.xml"></XmlDataProvider>
+                         Source="XML\XMLFile2.xml"/>
+
+        <XmlDataProvider x:Key="XmlReader2"
+                         Source="XML\XMLFile3.xml"/>
+
+
+
+
+
 
 
     </Application.Resources>

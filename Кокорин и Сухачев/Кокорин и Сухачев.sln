@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Кокорин и Сухачев", "Кокорин и Сухачев\Кокорин и Сухачев.csproj", "{400AE80C-FB20-4F71-9660-5033913A525B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Imagies", "Imagies", "{6B7CF9BC-1C85-408D-81A2-EE68AD30B2F3}"
+	ProjectSection(SolutionItems) = preProject
+		Кокорин и Сухачев\Imagies\News.jpg = Кокорин и Сухачев\Imagies\News.jpg
+		..\..\..\..\Public\Pictures\Безымянный.png = ..\..\..\..\Public\Pictures\Безымянный.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

@@ -7,25 +7,33 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Grid HorizontalAlignment="Left" Height="420" VerticalAlignment="Top" Width="182">
-            <Grid Background="Coral"></Grid>
-            <Button Content="Курс Рубля" HorizontalAlignment="Left" Margin="10,43,0,0" VerticalAlignment="Top" Width="162" Style="{StaticResource PalmGod3}" Click="Button_Click_2"/>
-        </Grid>
-        <Button HorizontalAlignment="Left" VerticalAlignment="Top" Width="160" Margin="10,10,0,0" Style="{StaticResource PalmGod}" Click="Button_Click_3" Height="26" Content="Новости&#xD;&#xA;"/>
-        <Button Content="Выход" HorizontalAlignment="Left" Margin="10,388,0,0" VerticalAlignment="Top" Width="160" Style="{StaticResource PalmGod1}" Click="Button_Click"/>
-        <Button Content="Гимн России" HorizontalAlignment="Left" VerticalAlignment="Top" Width="160" Margin="10,75,0,0" Style="{StaticResource PalmGod2}" Click="Button_Click_1"/>
-        <Frame x:Name="PageViewer" Margin="182,0,124,0"/>
-        <Grid HorizontalAlignment="Left" Height="420" VerticalAlignment="Top" Width="486" Margin="182,0,0,0"/>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="130"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="200"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Background="LightSteelBlue" Grid.Column="0">
+            <Button x:Name="btn_news" Content="Новости" Style="{StaticResource PalmGod}" Click="btn_news_Click"/>
+            <Button x:Name="btn_black_tuesday" Content="Чёрный вторник" Style="{StaticResource PalmGod2}" Click="btn_black_Click"/>
+            <Button x:Name="btn_himn" Content="Гимн России" Style="{StaticResource PalmGod3}" Click="btn_himn_Click"/>
+        </StackPanel>
+        <StackPanel VerticalAlignment="Bottom" Grid.Column="0">
+            <Button x:Name="btn_exit" Content="Выход" Style="{StaticResource PalmGod1}" Click="btn_exit_Click"/>
+        </StackPanel>
+        <StackPanel Background="Lavender" Grid.Column="1">
+            <TextBlock Text="           Добро пожаловать!" FontSize="30" Foreground="Magenta"/>
+        </StackPanel>
 
-        <Grid HorizontalAlignment="Left" Height="420" Margin="668,0,0,0" VerticalAlignment="Top" Width="124">
 
-            <Grid Background="Aqua" Grid.RowSpan="2"></Grid>
-            <Grid.RowDefinitions>
-                <RowDefinition Height="103*"/>
-                <RowDefinition Height="107*"/>
-            </Grid.RowDefinitions>
-        </Grid>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="668,0,0,0" Height="116" Width="124"/>
+        <StackPanel Background="LightSkyBlue" Grid.Column="2"/>
+        <Frame x:Name="PageViewer" Grid.Column="1"/>
+
+
+
+
+
+
+
 
 
 

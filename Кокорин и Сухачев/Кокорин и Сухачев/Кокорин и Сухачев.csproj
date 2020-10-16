@@ -122,7 +122,13 @@
     <Resource Include="XML\XMLFile2.xml" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Image1.png" />
+    <Resource Include="News.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="XML\XMLFile3.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Безымянный.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

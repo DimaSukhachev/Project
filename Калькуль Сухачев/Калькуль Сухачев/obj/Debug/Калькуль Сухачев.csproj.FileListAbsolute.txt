@@ -1,0 +1,7 @@
+C:\Users\student.405-04\source\repos\Калькуль Сухачев\Калькуль Сухачев\bin\Debug\Калькуль Сухачев.exe.config
+C:\Users\student.405-04\source\repos\Калькуль Сухачев\Калькуль Сухачев\bin\Debug\Калькуль Сухачев.exe
+C:\Users\student.405-04\source\repos\Калькуль Сухачев\Калькуль Сухачев\bin\Debug\Калькуль Сухачев.pdb
+C:\Users\student.405-04\source\repos\Калькуль Сухачев\Калькуль Сухачев\obj\Debug\Калькуль Сухачев.csprojAssemblyReference.cache
+C:\Users\student.405-04\source\repos\Калькуль Сухачев\Калькуль Сухачев\obj\Debug\Калькуль Сухачев.csproj.CoreCompileInputs.cache
+C:\Users\student.405-04\source\repos\Калькуль Сухачев\Калькуль Сухачев\obj\Debug\Калькуль Сухачев.exe
+C:\Users\student.405-04\source\repos\Калькуль Сухачев\Калькуль Сухачев\obj\Debug\Калькуль Сухачев.pdb

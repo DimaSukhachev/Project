@@ -1,0 +1,7 @@
+C:\Users\student.405-04\source\repos\калькулятор сухачев\калькулятор сухачев\bin\Debug\калькулятор сухачев.exe.config
+C:\Users\student.405-04\source\repos\калькулятор сухачев\калькулятор сухачев\bin\Debug\калькулятор сухачев.exe
+C:\Users\student.405-04\source\repos\калькулятор сухачев\калькулятор сухачев\bin\Debug\калькулятор сухачев.pdb
+C:\Users\student.405-04\source\repos\калькулятор сухачев\калькулятор сухачев\obj\Debug\калькулятор сухачев.csprojAssemblyReference.cache
+C:\Users\student.405-04\source\repos\калькулятор сухачев\калькулятор сухачев\obj\Debug\калькулятор сухачев.csproj.CoreCompileInputs.cache
+C:\Users\student.405-04\source\repos\калькулятор сухачев\калькулятор сухачев\obj\Debug\калькулятор сухачев.exe
+C:\Users\student.405-04\source\repos\калькулятор сухачев\калькулятор сухачев\obj\Debug\калькулятор сухачев.pdb
